@@ -1,3 +1,6 @@
 [submodule "rm_auto_aim"]
 	path = rm_auto_aim
 	url = https://github.com/rm-vision-archive/rm_auto_aim.git
+[submodule "rm_serial_driver"]
+	path = rm_serial_driver
+	url = https://github.com/rm-vision-archive/rm_serial_driver.git
